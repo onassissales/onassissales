@@ -2,7 +2,7 @@
 
 **`Systems Development`** - **`CyberSecurity`** - **`Backend`**
 
-Me chamo Onassis Sales, tenho 28 anos e sou natural do Amazonas. Estou concluindo o ensino médio no Fametro, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fametro. Sempre gostei de computadores principalmente da area de CyberSecurity e agora prentendo me aprofunda e compartilhar meu conhecimento no Instagram e no Github. Meu instagram e "[kxomshy](https://www.instagram.com/kxomshy/)",onde quero compartilhar minha trajetoria.
+Me chamo Onassis Sales, tenho 28 anos e sou natural do Amazonas. Estou concluindo o ensino médio no Fametro, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fametro. Sempre gostei de computadores principalmente da area de CyberSecurity e agora prentendo me aprofunda e compartilhar meu conhecimento no Instagram e no Github. Meu instagram e "[]()",onde quero compartilhar minha trajetoria.
 
 </a>
     <a 
